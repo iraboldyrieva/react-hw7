@@ -1,0 +1,12 @@
+body {
+    font-family: 'Gill Sans', sans-serif;
+    color: darkslategrey;
+    font-size: 14pt;
+    margin: 0;
+}
+
+p,
+ul,
+li {
+    margin: 0;
+}
